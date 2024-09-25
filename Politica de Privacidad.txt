@@ -1,0 +1,22 @@
+Política de Privacidad de NasSed
+Última actualización: [25/sep/24]
+1. Introducción
+En NasSed, de Espacio Rojo, respetamos tu privacidad y nos comprometemos a protegerla. Esta política de privacidad tiene como objetivo informarte sobre cómo manejamos la información y los permisos que solicita la aplicación. NasSed no recopila, almacena ni comparte ningún dato personal.
+
+2. Acceso a archivos
+La aplicación solicita acceso al sistema de archivos del dispositivo únicamente con el fin de permitirte subir archivos a un servidor local basado en ESP32, visualizar los archivos almacenados en el servidor y borrarlos si es necesario. El acceso es necesario para que la aplicación funcione correctamente. Sin embargo, no recopilamos ni almacenamos ningún archivo o dato personal del dispositivo.
+
+3. No recopilación de datos personales
+NasSed no recopila ni transmite ninguna información personal ni información de uso del dispositivo a servidores de terceros. Todos los archivos subidos por el usuario se transfieren directamente al servidor local controlado por el propio usuario, y no son procesados ni almacenados en ninguna infraestructura administrada por NasSed.
+
+4. Seguridad
+Aunque no gestionamos ni almacenamos información personal, tomamos en serio la seguridad de los archivos transferidos a través de la aplicación. Utilizamos el protocolo HTTP para la comunicación con el servidor ESP32. Sin embargo, ten en cuenta que HTTP no es encriptado, por lo que la transferencia de archivos no está cifrada. Te recomendamos usar la aplicación solo en redes seguras.
+
+5. Niños menores de 13 años
+NasSed no está destinada a ser utilizada por niños menores de 13 años. No recopilamos conscientemente información de niños menores de 13 años. Si eres un padre o tutor y crees que tu hijo ha proporcionado datos personales, por favor, contáctanos y tomaremos medidas para eliminar esa información.
+
+6. Cambios en esta política de privacidad
+Podemos actualizar esta política de privacidad de vez en cuando. Te notificaremos sobre cualquier cambio publicando la nueva política en esta página y actualizando la fecha de "Última actualización". Te recomendamos revisar esta página periódicamente para mantenerte informado.
+
+7. Contacto
+Si tienes alguna pregunta sobre esta política de privacidad o sobre el uso de la aplicación, por favor, contáctanos a través de: espaciorojo0102@gmail.com.
