@@ -1,3 +1,4 @@
+![Servidor basico](https://github.com/rralen/NasSedC/blob/main/Esp32/5fc45dbe-a073-4359-a7d3-ce0f7607732f.jpeg)
 # NasSed
 
 NasSed es una aplicación diseñada para interactuar con servidores locales basados en ESP32. Permite a los usuarios subir, visualizar y eliminar archivos directamente en el servidor sin recopilar datos personales.
